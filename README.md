@@ -14,8 +14,8 @@ This section includes notes, and documentation related to Containerization and D
 ### Theory Topics
 
 - [Class Notes](https://www.notion.so/Docker-Notes-2f020f08a155803a8ae0dec04160f681)
-- [1: Installing Docker](Class/Installation/README.md)
-- [2: Creating a Dockerfile](Class/Docker)
+- [1: Installing Docker](./Class/Installation/README.md)
+- [2: Creating a Dockerfile](./Class/Docker)
 
 ---
 
@@ -25,7 +25,7 @@ This section contains practical experiments and hands-on exercises to apply DevO
 
 ### Lab Experiments
 
-- [Lab 1: Perfomance Comparision](Lab/Exp1/README.md)
+- [Lab 1: Perfomance Comparision](./Lab/Exp1/README.md)
 
 ---
 
