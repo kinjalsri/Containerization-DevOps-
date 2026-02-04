@@ -26,10 +26,11 @@ This section contains practical experiments and hands-on exercises to apply DevO
 ### Lab Experiments
 
 - [Lab 1: Perfomance Comparision](./Lab/Exp1/README.md)
+- [Lab 2: Docker Installion & Github.io](./Lab/Exp2/README.md)
 
 ---
 
-## 📌 Notes
+## Notes
 
 - All theory materials are located in the `class/` directory.
 - All lab experiments are located in the `lab/` directory.
