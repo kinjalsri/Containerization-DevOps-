@@ -130,7 +130,7 @@ Folder: /root
 
 Click Save
 
-Step 4: Access the Live Website
+### Step 4: Access the Live Website
 
 After a few minutes, your website will be live at:
 
