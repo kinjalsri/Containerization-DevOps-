@@ -16,7 +16,7 @@ This section includes notes, and documentation related to Containerization and D
 - [Class Notes](https://www.notion.so/Docker-Notes-2f020f08a155803a8ae0dec04160f681)
 - [1: Installing Docker](./Class/Installation/README.md)
 - [2: Creating a Dockerfile](./Class/Docker)
-- [3: Creating a Python Dockerfile](./Class/docker2/README.MD)
+- [3: Creating a Python Dockerfile](./Class/docker2/README.md)
 
 ## Lab
 
