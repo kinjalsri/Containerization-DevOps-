@@ -18,8 +18,6 @@ This section includes notes, and documentation related to Containerization and D
 - [2: Creating a Dockerfile](./Class/Docker)
 - [3: Creating a Python Dockerfile](./Class/docker2/README.MD)
 
----
-
 ## Lab
 
 This section contains practical experiments and hands-on exercises to apply DevOps and Containerization concepts.
@@ -28,8 +26,8 @@ This section contains practical experiments and hands-on exercises to apply DevO
 
 - [Lab 1: Perfomance Comparision](./Lab/Exp1/README.md)
 - [Lab 2: Docker Installion & Github.io](./Lab/Exp2/README.md)
-- [Lab 3: Part 1: NGINX Comparision](./Lab/Exp%203/docker3/README.md)
-- [Lab 3: Part 2: Flask (Python)](./Lab/Exp%203/flask/README.md)
+- [Lab 3: Part 1: NGINX Comparision](./Lab/Exp3/docker3/README.md)
+- [Lab 3: Part 2: Flask (Python)](./Lab/Exp3/flask/README.md)
 
 ---
 
