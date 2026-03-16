@@ -33,8 +33,13 @@ This section contains practical experiments and hands-on exercises to apply DevO
 
 ---
 
+# Assignment 1
+
+- [Assignment 1: Containerized Web Application with PostgreSQL using Docker Compose and Macvlan/Ipvlan Objective](./Assignment/README.md)
+
 ## Notes
 
 - All theory materials are located in the `class/` directory.
 - All lab experiments are located in the `lab/` directory.
+- Assignment 1 is located in the `assignment/` directory.
 - Each link points to a detailed Markdown file for easy reading and updates.
