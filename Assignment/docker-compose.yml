@@ -1,0 +1,42 @@
+version: "3.9"
+
+services:
+  database:
+    build: ./database
+    container_name: postgres_db
+    environment:
+      POSTGRES_DB: mydb
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: secret
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    networks:
+      - mynet
+    restart: always
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U admin"]
+      interval: 10s
+      retries: 5
+
+  backend:
+    build: ./backend
+    container_name: backend_api
+    depends_on:
+      - database
+    environment:
+      DB_HOST: database
+      POSTGRES_DB: mydb
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: secret
+    ports:
+      - "3000:3000"
+    networks:
+      - mynet
+    restart: always
+
+networks:
+  mynet:
+    driver: bridge
+
+volumes:
+  pgdata:

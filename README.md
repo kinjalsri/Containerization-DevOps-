@@ -28,6 +28,8 @@ This section contains practical experiments and hands-on exercises to apply DevO
 - [Lab 2: Docker Installion & Github.io](./Lab/Exp2/README.md)
 - [Lab 3: Part 1: NGINX Comparision](./Lab/Exp3/docker3/README.md)
 - [Lab 3: Part 2: Flask (Python)](./Lab/Exp3/flask/README.md)
+- [Lab 4: Dockerfiles, DockerHub, Multistage](./Lab/Exp4/README.md)
+- [Lab 5: Volumes and Network](./Lab/Exp5/README.md)
 
 ---
 
