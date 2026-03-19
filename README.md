@@ -21,7 +21,7 @@ This section includes notes, and documentation related to Containerization and D
 - [5: Docker Volumes and Networks](./Class/NetworkDocker/README.md)
 - [6: Docker Compose](./Class/compose/README.md)
 - [7: Docker Swarm](./Class/Swarm/README.md)
-- [8: Docker API](./Class/Api/README.md)
+- [8: Docker API](./Class/ExposingAPI/README.md)
 - [9: Kubernetes Basics](./Class/KubernetesBasics/README.md)
 
 ## Lab
