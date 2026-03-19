@@ -15,8 +15,14 @@ This section includes notes, and documentation related to Containerization and D
 
 - [Class Notes](https://www.notion.so/Docker-Notes-2f020f08a155803a8ae0dec04160f681)
 - [1: Installing Docker](./Class/Installation/README.md)
-- [2: Creating a Dockerfile](./Class/Docker)
+- [2: Creating a Dockerfile](./Class/Docker/README.md)
 - [3: Creating a Python Dockerfile](./Class/docker2/README.md)
+- [4: Multistage Dockerfile](./Class/docker/README.md)
+- [5: Docker Volumes and Networks](./Class/NetworkDocker/README.md)
+- [6: Docker Compose](./Class/compose/README.md)
+- [7: Docker Swarm](./Class/Swarm/README.md)
+- [8: Docker API](./Class/Api/README.md)
+- [9: Kubernetes Basics](./Class/KubernetesBasics/README.md)
 
 ## Lab
 
