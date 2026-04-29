@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  nodeapp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: multistage-node
+    ports:
+      - "3002:3000"
+    environment:
+      - PORT=3000
+      - MESSAGE=Hello From Multi Stage Build
+    volumes:
+      - .:/app

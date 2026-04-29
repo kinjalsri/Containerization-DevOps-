@@ -36,6 +36,14 @@ This section contains practical experiments and hands-on exercises to apply DevO
 - [Lab 3: Part 2: Flask (Python)](./Lab/Exp3/flask/README.md)
 - [Lab 4: Dockerfiles, DockerHub, Multistage](./Lab/Exp4/README.md)
 - [Lab 5: Volumes and Network](./Lab/Exp5/README.md)
+- [Lab 6A: Docker Compose](./Lab/Exp6A/README.md)
+- [Lab 6B: Docker Compose with PostgreSQL](./Lab/Exp6B/README.md)
+- [Lab 6C: Replace Standard Image with Dockerfile](./Lab/Exp6C/README.md)
+- [Lab 6D: Multi-Stage Docker Build](./Lab/Exp6D/README.md)
+- [Lab 6E: WordPress and MySQL with Docker Compose](./Lab/Exp6E/README.md)
+- [Lab 9: Ansible](./Lab/Exp9/README.md)
+- [Lab 10: SonarQube](./Lab/Exp10/README.md)
+- [Lab 11: Docker Swarm](./Lab/Exp11/README.md)
 
 ---
 
