@@ -203,13 +203,9 @@ The `withCredentials` block in the Jenkinsfile securely injects these credential
 
 ## Screenshots
 
-[Screenshot 1: Jenkins Dashboard showing pipeline status]
-
-[Screenshot 2: Pipeline build console output]
-
-[Screenshot 3: Docker Hub repository with pushed image]
-
-[Screenshot 4: Running container from Docker Hub image]
+- ![Jenkins Dashboard](./images/Screenshot%202026-04-18%20at%2011.14.03 PM.png)
+- ![Jenkins Dashboard](./images/Screenshot%202026-04-18%20at%2011.14.35 PM.png)
+- ![Jenkins Dashboard](./images/Screenshot%202026-04-18%20at%2011.14.58 PM.png)
 
 ## Key Learnings
 

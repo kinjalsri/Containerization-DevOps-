@@ -41,9 +41,11 @@ This section contains practical experiments and hands-on exercises to apply DevO
 - [Lab 6C: Replace Standard Image with Dockerfile](./Lab/Exp6C/README.md)
 - [Lab 6D: Multi-Stage Docker Build](./Lab/Exp6D/README.md)
 - [Lab 6E: WordPress and MySQL with Docker Compose](./Lab/Exp6E/README.md)
+- [Lab 7: Jenkins CI/CD Pipeline](./Lab/Exp7/README.md)
 - [Lab 9: Ansible](./Lab/Exp9/README.md)
 - [Lab 10: SonarQube](./Lab/Exp10/README.md)
 - [Lab 11: Docker Swarm](./Lab/Exp11/README.md)
+- [Lab 12: Kubernetes Basics](./Lab/Exp12/README.md)
 
 ---
 
